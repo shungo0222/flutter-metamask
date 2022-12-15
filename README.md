@@ -1,16 +1,10 @@
-# metamask
+# Flutter with Metamask
 
 A new Flutter project.
 
-## Getting Started
+## References
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [walletconnect_dart](https://pub.dev/packages/walletconnect_dart)
+- [dart_web3](https://pub.dev/packages/dart_web3)
+- [WalletConnect | Docs - Mobile Linking](https://docs.walletconnect.com/1.0/mobile-linking)
+- [Connect Metamask with a native mobile app built with Flutter #3735](https://github.com/MetaMask/metamask-mobile/issues/3735)
